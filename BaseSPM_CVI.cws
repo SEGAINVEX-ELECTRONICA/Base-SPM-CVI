@@ -1,0 +1,285 @@
+[Workspace Header]
+Version = 1201
+Pathname Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Pathname Line0002 = "I/BaseSPM_CVI.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2012"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2012"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "BaseSPM_CVI.prj"
+Drag Bar Left = 261
+Window Top = 38
+Window Left = 18
+Window Bottom = 969
+Window Right = 1220
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 3
+Window Confinement Region Enabled = True
+MainColumnWidth = 244
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 1201
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Release"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/PuertoCOM.c"
+File Type = "CSource"
+Disk Date = 3671861709
+In Projects = "1,"
+Window Top = 116
+Window Left = 51
+Source Window State = "1,1089,1089,1089,7,10,10,1,0,0,0,185,0,0,0,0,1058,0,1065,18,349,715,1,0,"
+Line Tags = "728,1813,"
+
+[File 0002]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/BaseSPM.c"
+File Type = "CSource"
+Disk Date = 3679407365
+In Projects = "1,"
+Window Top = 420
+Window Left = 211
+Window Z-Order = 1
+Source Window State = "1,1471,1471,1471,8,43,8,0,0,198,0,1390,0,0,0,71,1391,0,1439,23,349,715,1,26,"
+Line Tags = "1280,"
+
+[File 0003]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/BaseSPM.uir"
+File Type = "User Interface Resource"
+Disk Date = 3679406747
+In Projects = "1,"
+Window Top = 38
+Window Left = 10
+Window Height = 349
+Window Width = 715
+Window Z-Order = 2
+
+[File 0004]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/PanelPuertoCom.uir"
+File Type = "User Interface Resource"
+Disk Date = 3678516850
+In Projects = "1,"
+Window Top = 305
+Window Left = 851
+Window Height = 349
+Window Width = 715
+Window Z-Order = 3
+
+[File 0005]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/Atoms.ico"
+File Type = "Unknown"
+Disk Date = 3670331117
+In Projects = "1,"
+
+[File 0006]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/BaseSPM.h"
+File Type = "Include"
+Disk Date = 3679406747
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Source Window State = "1,180,180,180,17,18,17,1,0,0,0,0,0,0,0,0,148,0,180,0,349,715,1,0,"
+
+[File 0007]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/Conector.ico"
+File Type = "Unknown"
+Disk Date = 3670331118
+In Projects = "1,"
+
+[File 0008]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/copyright.rtf"
+File Type = "Unknown"
+Disk Date = 3670331118
+In Projects = "1,"
+
+[File 0009]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/ErroresRS232.h"
+File Type = "Include"
+Disk Date = 3670331118
+In Projects = "1,"
+Window Top = 312
+Window Left = 154
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,349,715,1,0,"
+
+[File 0010]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/locatecom.c"
+File Type = "CSource"
+Disk Date = 3670335007
+In Projects = "1,"
+Window Top = 230
+Window Left = 111
+Source Window State = "1,3,3,3,10,22,10,1,0,0,0,0,0,0,0,0,0,0,7,22,349,739,1,0,"
+
+[File 0011]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/locatecom.h"
+File Type = "Include"
+Disk Date = 3670334622
+In Projects = "1,"
+Window Top = 192
+Window Left = 91
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,9,349,739,1,0,"
+
+[File 0012]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/PanelPuertoCom.h"
+File Type = "Include"
+Disk Date = 3678516850
+In Projects = "1,"
+Window Top = 157
+Window Left = 74
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,349,715,1,0,"
+
+[File 0013]
+Path Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+Path Line0002 = "I/PuertoCOM.h"
+File Type = "Include"
+Disk Date = 3671798999
+In Projects = "1,"
+Window Top = 95
+Window Left = 42
+Source Window State = "1,238,239,238,0,8160,4,1,0,0,0,0,0,0,0,0,196,0,247,41,349,715,1,0,"
+
+[File 0014]
+Path = "/c/Program Files (x86)/National Instruments/CVI2012/sdk/lib/msvc/SetupAPI.Lib"
+File Type = "Library"
+Disk Date = 3440480400
+In Projects = "1,"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+
+[Watch Point 1]
+Watch Expression = "PuertoCOM"
+Update Display Continuously = True
+Break When Value Changes = False
+Scope = "Global To File"
+File = "PuertoCOM.c"
+DllName = "d:\\Base SPM CVI\\BaseSPM_CVI.exe"
+
+[Watch Point 2]
+Watch Expression = "FlagPuertoAbierto"
+Update Display Continuously = True
+Break When Value Changes = False
+Scope = "Global To Project"
+DllName = "c:\\Users\\PC.5014885\\Proyectos\\BaseSPM_CVI\\BaseSPM_CVI.exe"
+
+[Distributions]
+Active Index = 1
+AbsCDSPath 0001 Line0001 = "/c/Users/PC.5014885/Proyectos/20190335 Programación Arduino Base SPM/Base-SPM_CV"
+AbsCDSPath 0001 Line0002 = "I/BaseSPM_1.cds"
+RelCDSPath 0001 = "BaseSPM_1.cds"
+
